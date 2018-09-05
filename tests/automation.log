@@ -1,0 +1,228 @@
+08/31/2018 07:10:20 PM - getDriver - INFO: ==================================================
+08/31/2018 07:10:20 PM - getDriver - INFO: Get Driver
+08/31/2018 07:10:35 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:10:35 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:10:35 PM - SeleniumDriver - INFO: Element found with locator: username and  locatorType: id
+08/31/2018 07:10:35 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+08/31/2018 07:10:35 PM - SeleniumDriver - INFO: Element found with locator: password and  locatorType: id
+08/31/2018 07:10:35 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+08/31/2018 07:10:35 PM - SeleniumDriver - INFO: Element found with locator: //button[contains(@type,'submit')] and  locatorType: xpath
+08/31/2018 07:10:47 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[contains(@type,'submit')] locatorType: xpath
+08/31/2018 07:10:47 PM - SeleniumDriver - INFO: Element found with locator: //a[@id='userAcctTab_MainMenu'] and  locatorType: xpath
+08/31/2018 07:10:49 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='userAcctTab_MainMenu'] locatorType: xpath
+08/31/2018 07:10:49 PM - SeleniumDriver - INFO: Element found with locator: //ul[contains(@class,'nav-submenu')]//li[contains(@class,'last')]/a[contains(text(), 'Sign Out' )] and  locatorType: xpath
+08/31/2018 07:10:49 PM - SeleniumDriver - INFO: Getting text on element :: 
+08/31/2018 07:10:49 PM - SeleniumDriver - INFO: The text is :: 'Sign Out'
+08/31/2018 07:10:49 PM - SeleniumDriver - INFO: Sign out text : Sign Out
+08/31/2018 07:10:49 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:10:49 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:10:49 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:10:49 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:10:53 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] and  locatorType: xpath
+08/31/2018 07:10:53 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] locatorType: xpath
+08/31/2018 07:10:53 PM - SeleniumDriver - INFO: Element found with locator: //input[contains(@value,'2')] and  locatorType: xpath
+08/31/2018 07:10:53 PM - SeleniumDriver - INFO: Respondant Count : 2
+08/31/2018 07:10:53 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] and  locatorType: xpath
+08/31/2018 07:10:53 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] locatorType: xpath
+08/31/2018 07:10:53 PM - SeleniumDriver - INFO: in for loop
+08/31/2018 07:10:53 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@title,'Previous respondent ( j )')] and  locatorType: xpath
+08/31/2018 07:10:53 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@title,'Previous respondent ( j )')] locatorType: xpath
+08/31/2018 07:10:53 PM - SeleniumDriver - INFO: in for loop
+08/31/2018 07:10:53 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@title,'Previous respondent ( j )')] and  locatorType: xpath
+08/31/2018 07:10:53 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //a[contains(@title,'Previous respondent ( j )')] locatorType: xpath
+08/31/2018 07:10:53 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] and  locatorType: xpath
+08/31/2018 07:10:53 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] locatorType: xpath
+08/31/2018 07:10:53 PM - SeleniumDriver - INFO: Element found with locator: //input[contains(@value,'1')] and  locatorType: xpath
+08/31/2018 07:10:53 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] and  locatorType: xpath
+08/31/2018 07:10:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] locatorType: xpath
+08/31/2018 07:10:54 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:10:54 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:10:54 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:10:54 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:10:54 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:10:54 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:10:54 PM - SeleniumDriver - INFO: Element found with locator: //a[@id='FilterBuilderTab'] and  locatorType: xpath
+08/31/2018 07:10:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='FilterBuilderTab'] locatorType: xpath
+08/31/2018 07:10:54 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Filter by Question and Answer')] and  locatorType: xpath
+08/31/2018 07:10:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Filter by Question and Answer')] locatorType: xpath
+08/31/2018 07:10:54 PM - SeleniumDriver - INFO: Element found with locator: //section[contains(@class,'lane qna select open')]//select and  locatorType: xpath
+08/31/2018 07:10:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //section[contains(@class,'lane qna select open')]//select locatorType: xpath
+08/31/2018 07:10:54 PM - SeleniumDriver - INFO: Element found with locator: //section[contains(@class,'lane qna select open')]//option[contains(@value,'114042894')][contains(text(),'Q1: Which color is the best?')] and  locatorType: xpath
+08/31/2018 07:10:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //section[contains(@class,'lane qna select open')]//option[contains(@value,'114042894')][contains(text(),'Q1: Which color is the best?')] locatorType: xpath
+08/31/2018 07:10:54 PM - SeleniumDriver - INFO: Element found with locator: //label[contains(text(),'blue')] and  locatorType: xpath
+08/31/2018 07:10:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //label[contains(text(),'blue')] locatorType: xpath
+08/31/2018 07:10:54 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'wds-button wds-button--primary wds-button--sm apply-btn')] and  locatorType: xpath
+08/31/2018 07:10:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'wds-button wds-button--primary wds-button--sm apply-btn')] locatorType: xpath
+08/31/2018 07:10:54 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(@class,'rule-name word-break')] and  locatorType: xpath
+08/31/2018 07:10:54 PM - SeleniumDriver - INFO: Element present with locator: //div[contains(@class,'rule-name word-break')] locatorType: xpath
+08/31/2018 07:18:12 PM - getDriver - INFO: ==================================================
+08/31/2018 07:18:12 PM - getDriver - INFO: Get Driver
+08/31/2018 07:18:24 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:18:24 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:18:24 PM - SeleniumDriver - INFO: Element found with locator: username and  locatorType: id
+08/31/2018 07:18:24 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+08/31/2018 07:18:24 PM - SeleniumDriver - INFO: Element found with locator: password and  locatorType: id
+08/31/2018 07:18:24 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+08/31/2018 07:18:24 PM - SeleniumDriver - INFO: Element found with locator: //button[contains(@type,'submit')] and  locatorType: xpath
+08/31/2018 07:18:35 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[contains(@type,'submit')] locatorType: xpath
+08/31/2018 07:18:35 PM - SeleniumDriver - INFO: Element found with locator: //a[@id='userAcctTab_MainMenu'] and  locatorType: xpath
+08/31/2018 07:18:37 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='userAcctTab_MainMenu'] locatorType: xpath
+08/31/2018 07:18:37 PM - SeleniumDriver - INFO: Element found with locator: //ul[contains(@class,'nav-submenu')]//li[contains(@class,'last')]/a[contains(text(), 'Sign Out' )] and  locatorType: xpath
+08/31/2018 07:18:37 PM - SeleniumDriver - INFO: Getting text on element :: 
+08/31/2018 07:18:37 PM - SeleniumDriver - INFO: The text is :: 'Sign Out'
+08/31/2018 07:18:37 PM - SeleniumDriver - INFO: Sign out text : Sign Out
+08/31/2018 07:18:37 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:18:37 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:18:37 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:18:37 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:18:39 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] and  locatorType: xpath
+08/31/2018 07:18:39 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] locatorType: xpath
+08/31/2018 07:18:39 PM - SeleniumDriver - INFO: Element found with locator: //input[contains(@value,'2')] and  locatorType: xpath
+08/31/2018 07:18:39 PM - SeleniumDriver - INFO: Respondant Count : 2
+08/31/2018 07:18:39 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] and  locatorType: xpath
+08/31/2018 07:18:39 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] locatorType: xpath
+08/31/2018 07:18:39 PM - SeleniumDriver - INFO: in for loop
+08/31/2018 07:18:39 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@title,'Previous respondent ( j )')] and  locatorType: xpath
+08/31/2018 07:18:39 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@title,'Previous respondent ( j )')] locatorType: xpath
+08/31/2018 07:18:39 PM - SeleniumDriver - INFO: in for loop
+08/31/2018 07:18:39 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@title,'Previous respondent ( j )')] and  locatorType: xpath
+08/31/2018 07:18:40 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //a[contains(@title,'Previous respondent ( j )')] locatorType: xpath
+08/31/2018 07:18:40 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] and  locatorType: xpath
+08/31/2018 07:18:40 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] locatorType: xpath
+08/31/2018 07:18:40 PM - SeleniumDriver - INFO: Element found with locator: //input[contains(@value,'1')] and  locatorType: xpath
+08/31/2018 07:18:40 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] and  locatorType: xpath
+08/31/2018 07:18:40 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] locatorType: xpath
+08/31/2018 07:18:40 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:18:40 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:18:40 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:18:40 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:18:40 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:18:40 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:18:40 PM - SeleniumDriver - INFO: Element found with locator: //a[@id='FilterBuilderTab'] and  locatorType: xpath
+08/31/2018 07:18:40 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='FilterBuilderTab'] locatorType: xpath
+08/31/2018 07:18:40 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Filter by Question and Answer')] and  locatorType: xpath
+08/31/2018 07:18:40 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Filter by Question and Answer')] locatorType: xpath
+08/31/2018 07:18:40 PM - SeleniumDriver - INFO: Element found with locator: //section[contains(@class,'lane qna select open')]//select and  locatorType: xpath
+08/31/2018 07:18:40 PM - SeleniumDriver - INFO: Clicked on element with locator: //section[contains(@class,'lane qna select open')]//select locatorType: xpath
+08/31/2018 07:18:40 PM - SeleniumDriver - INFO: Element found with locator: //section[contains(@class,'lane qna select open')]//option[contains(@value,'114042894')][contains(text(),'Q1: Which color is the best?')] and  locatorType: xpath
+08/31/2018 07:18:40 PM - SeleniumDriver - INFO: Clicked on element with locator: //section[contains(@class,'lane qna select open')]//option[contains(@value,'114042894')][contains(text(),'Q1: Which color is the best?')] locatorType: xpath
+08/31/2018 07:18:40 PM - SeleniumDriver - INFO: Element found with locator: //label[contains(text(),'blue')] and  locatorType: xpath
+08/31/2018 07:18:40 PM - SeleniumDriver - INFO: Clicked on element with locator: //label[contains(text(),'blue')] locatorType: xpath
+08/31/2018 07:18:40 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'wds-button wds-button--primary wds-button--sm apply-btn')] and  locatorType: xpath
+08/31/2018 07:18:41 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'wds-button wds-button--primary wds-button--sm apply-btn')] locatorType: xpath
+08/31/2018 07:18:41 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(@class,'soft-text')] and  locatorType: xpath
+08/31/2018 07:18:41 PM - SeleniumDriver - INFO: Element present with locator: //span[contains(@class,'soft-text')] locatorType: xpath
+08/31/2018 07:21:32 PM - getDriver - INFO: ==================================================
+08/31/2018 07:21:32 PM - getDriver - INFO: Get Driver
+08/31/2018 07:21:43 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:21:43 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:21:43 PM - SeleniumDriver - INFO: Element found with locator: username and  locatorType: id
+08/31/2018 07:21:43 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+08/31/2018 07:21:43 PM - SeleniumDriver - INFO: Element found with locator: password and  locatorType: id
+08/31/2018 07:21:43 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+08/31/2018 07:21:43 PM - SeleniumDriver - INFO: Element found with locator: //button[contains(@type,'submit')] and  locatorType: xpath
+08/31/2018 07:21:57 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[contains(@type,'submit')] locatorType: xpath
+08/31/2018 07:21:57 PM - SeleniumDriver - INFO: Element found with locator: //a[@id='userAcctTab_MainMenu'] and  locatorType: xpath
+08/31/2018 07:21:58 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='userAcctTab_MainMenu'] locatorType: xpath
+08/31/2018 07:21:58 PM - SeleniumDriver - INFO: Element found with locator: //ul[contains(@class,'nav-submenu')]//li[contains(@class,'last')]/a[contains(text(), 'Sign Out' )] and  locatorType: xpath
+08/31/2018 07:21:58 PM - SeleniumDriver - INFO: Getting text on element :: 
+08/31/2018 07:21:58 PM - SeleniumDriver - INFO: The text is :: 'Sign Out'
+08/31/2018 07:21:58 PM - SeleniumDriver - INFO: Sign out text : Sign Out
+08/31/2018 07:21:58 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:21:58 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:21:58 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:21:58 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:22:02 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] and  locatorType: xpath
+08/31/2018 07:22:02 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] locatorType: xpath
+08/31/2018 07:22:02 PM - SeleniumDriver - INFO: Element found with locator: //input[contains(@value,'2')] and  locatorType: xpath
+08/31/2018 07:22:02 PM - SeleniumDriver - INFO: Respondant Count : 2
+08/31/2018 07:22:02 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] and  locatorType: xpath
+08/31/2018 07:22:02 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] locatorType: xpath
+08/31/2018 07:22:02 PM - SeleniumDriver - INFO: in for loop
+08/31/2018 07:22:02 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@title,'Previous respondent ( j )')] and  locatorType: xpath
+08/31/2018 07:22:02 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@title,'Previous respondent ( j )')] locatorType: xpath
+08/31/2018 07:22:02 PM - SeleniumDriver - INFO: in for loop
+08/31/2018 07:22:02 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@title,'Previous respondent ( j )')] and  locatorType: xpath
+08/31/2018 07:22:02 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //a[contains(@title,'Previous respondent ( j )')] locatorType: xpath
+08/31/2018 07:22:02 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] and  locatorType: xpath
+08/31/2018 07:22:03 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] locatorType: xpath
+08/31/2018 07:22:03 PM - SeleniumDriver - INFO: Element found with locator: //input[contains(@value,'1')] and  locatorType: xpath
+08/31/2018 07:22:03 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] and  locatorType: xpath
+08/31/2018 07:22:03 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] locatorType: xpath
+08/31/2018 07:22:03 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:22:03 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:22:03 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:22:03 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:22:03 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:22:03 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:22:03 PM - SeleniumDriver - INFO: Element found with locator: //a[@id='FilterBuilderTab'] and  locatorType: xpath
+08/31/2018 07:22:03 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='FilterBuilderTab'] locatorType: xpath
+08/31/2018 07:22:03 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Filter by Question and Answer')] and  locatorType: xpath
+08/31/2018 07:22:03 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Filter by Question and Answer')] locatorType: xpath
+08/31/2018 07:22:03 PM - SeleniumDriver - INFO: Element found with locator: //section[contains(@class,'lane qna select open')]//select and  locatorType: xpath
+08/31/2018 07:22:03 PM - SeleniumDriver - INFO: Clicked on element with locator: //section[contains(@class,'lane qna select open')]//select locatorType: xpath
+08/31/2018 07:22:03 PM - SeleniumDriver - INFO: Element found with locator: //section[contains(@class,'lane qna select open')]//option[contains(@value,'114042894')][contains(text(),'Q1: Which color is the best?')] and  locatorType: xpath
+08/31/2018 07:22:03 PM - SeleniumDriver - INFO: Clicked on element with locator: //section[contains(@class,'lane qna select open')]//option[contains(@value,'114042894')][contains(text(),'Q1: Which color is the best?')] locatorType: xpath
+08/31/2018 07:22:03 PM - SeleniumDriver - INFO: Element found with locator: //label[contains(text(),'blue')] and  locatorType: xpath
+08/31/2018 07:22:03 PM - SeleniumDriver - INFO: Clicked on element with locator: //label[contains(text(),'blue')] locatorType: xpath
+08/31/2018 07:22:03 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'wds-button wds-button--primary wds-button--sm apply-btn')] and  locatorType: xpath
+08/31/2018 07:22:03 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'wds-button wds-button--primary wds-button--sm apply-btn')] locatorType: xpath
+08/31/2018 07:22:03 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(@class,'soft-text')][contains(text(), 'filter:')] and  locatorType: xpath
+08/31/2018 07:22:03 PM - SeleniumDriver - INFO: Element present with locator: //span[contains(@class,'soft-text')][contains(text(), 'filter:')] locatorType: xpath
+08/31/2018 07:28:52 PM - getDriver - INFO: ==================================================
+08/31/2018 07:28:52 PM - getDriver - INFO: Get Driver
+08/31/2018 07:29:02 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:29:02 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:29:02 PM - SeleniumDriver - INFO: Element found with locator: username and  locatorType: id
+08/31/2018 07:29:03 PM - SeleniumDriver - INFO: Sent data on element with locator: username locatorType: id
+08/31/2018 07:29:03 PM - SeleniumDriver - INFO: Element found with locator: password and  locatorType: id
+08/31/2018 07:29:03 PM - SeleniumDriver - INFO: Sent data on element with locator: password locatorType: id
+08/31/2018 07:29:03 PM - SeleniumDriver - INFO: Element found with locator: //button[contains(@type,'submit')] and  locatorType: xpath
+08/31/2018 07:29:14 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[contains(@type,'submit')] locatorType: xpath
+08/31/2018 07:29:14 PM - SeleniumDriver - INFO: Element found with locator: //a[@id='userAcctTab_MainMenu'] and  locatorType: xpath
+08/31/2018 07:29:16 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='userAcctTab_MainMenu'] locatorType: xpath
+08/31/2018 07:29:16 PM - SeleniumDriver - INFO: Element found with locator: //ul[contains(@class,'nav-submenu')]//li[contains(@class,'last')]/a[contains(text(), 'Sign Out' )] and  locatorType: xpath
+08/31/2018 07:29:16 PM - SeleniumDriver - INFO: Getting text on element :: 
+08/31/2018 07:29:16 PM - SeleniumDriver - INFO: The text is :: 'Sign Out'
+08/31/2018 07:29:16 PM - SeleniumDriver - INFO: Sign out text : Sign Out
+08/31/2018 07:29:16 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:29:16 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:29:16 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:29:16 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:29:18 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] and  locatorType: xpath
+08/31/2018 07:29:18 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] locatorType: xpath
+08/31/2018 07:29:18 PM - SeleniumDriver - INFO: Element found with locator: //input[contains(@value,'2')] and  locatorType: xpath
+08/31/2018 07:29:18 PM - SeleniumDriver - INFO: Respondant Count : 2
+08/31/2018 07:29:18 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] and  locatorType: xpath
+08/31/2018 07:29:18 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] locatorType: xpath
+08/31/2018 07:29:18 PM - SeleniumDriver - INFO: in for loop
+08/31/2018 07:29:18 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@title,'Previous respondent ( j )')] and  locatorType: xpath
+08/31/2018 07:29:18 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@title,'Previous respondent ( j )')] locatorType: xpath
+08/31/2018 07:29:18 PM - SeleniumDriver - INFO: in for loop
+08/31/2018 07:29:18 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@title,'Previous respondent ( j )')] and  locatorType: xpath
+08/31/2018 07:29:18 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //a[contains(@title,'Previous respondent ( j )')] locatorType: xpath
+08/31/2018 07:29:18 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] and  locatorType: xpath
+08/31/2018 07:29:18 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] locatorType: xpath
+08/31/2018 07:29:18 PM - SeleniumDriver - INFO: Element found with locator: //input[contains(@value,'1')] and  locatorType: xpath
+08/31/2018 07:29:18 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] and  locatorType: xpath
+08/31/2018 07:29:19 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'respondent-goto-menu-btn sm-float-l wds-button wds-button--util wds-button--arrow-down')] locatorType: xpath
+08/31/2018 07:29:19 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:29:19 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:29:19 PM - objectSetup - INFO: ==================================================
+08/31/2018 07:29:19 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:29:19 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:29:19 PM - objectSetup - INFO: Login Operation
+08/31/2018 07:29:19 PM - SeleniumDriver - INFO: Element found with locator: //a[@id='FilterBuilderTab'] and  locatorType: xpath
+08/31/2018 07:29:19 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@id='FilterBuilderTab'] locatorType: xpath
+08/31/2018 07:29:19 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Filter by Question and Answer')] and  locatorType: xpath
+08/31/2018 07:29:19 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Filter by Question and Answer')] locatorType: xpath
+08/31/2018 07:29:19 PM - SeleniumDriver - INFO: Element found with locator: //section[contains(@class,'lane qna select open')]//select and  locatorType: xpath
+08/31/2018 07:29:19 PM - SeleniumDriver - INFO: Clicked on element with locator: //section[contains(@class,'lane qna select open')]//select locatorType: xpath
+08/31/2018 07:29:19 PM - SeleniumDriver - INFO: Element found with locator: //section[contains(@class,'lane qna select open')]//option[contains(@value,'114042894')][contains(text(),'Q1: Which color is the best?')] and  locatorType: xpath
+08/31/2018 07:29:19 PM - SeleniumDriver - INFO: Clicked on element with locator: //section[contains(@class,'lane qna select open')]//option[contains(@value,'114042894')][contains(text(),'Q1: Which color is the best?')] locatorType: xpath
+08/31/2018 07:29:19 PM - SeleniumDriver - INFO: Element found with locator: //label[contains(text(),'blue')] and  locatorType: xpath
+08/31/2018 07:29:19 PM - SeleniumDriver - INFO: Clicked on element with locator: //label[contains(text(),'blue')] locatorType: xpath
+08/31/2018 07:29:19 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(@class,'wds-button wds-button--primary wds-button--sm apply-btn')] and  locatorType: xpath
+08/31/2018 07:29:19 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@class,'wds-button wds-button--primary wds-button--sm apply-btn')] locatorType: xpath
+08/31/2018 07:29:24 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(@class,'soft-text')][contains(text(), 'filter:')] and  locatorType: xpath
+08/31/2018 07:29:24 PM - SeleniumDriver - INFO: Element present with locator: //span[contains(@class,'soft-text')][contains(text(), 'filter:')] locatorType: xpath

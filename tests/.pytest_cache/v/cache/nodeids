@@ -1,0 +1,5 @@
+[
+  "test_suite.py::LoginAndLandOnAnalyze::test_T1login_and_land_analyze",
+  "test_suite.py::LoginAndLandOnAnalyze::test_T2go_to_first_respondant",
+  "test_suite.py::LoginAndLandOnAnalyze::test_T3verify_filter"
+]
