@@ -204,15 +204,3 @@ class SeleniumDriver():
             self.log.info("Element not appeared on the web page")
             print_stack()
         return element
-
-    def webScroll(self, direction="up"):
-        """
-        NEW METHOD
-        """
-        if direction == "up":
-            # Scroll Up
-            self.driver.execute_script("window.scrollBy(0, -1000);")
-
-        if direction == "down":
-            # Scroll Down
-            self.driver.execute_script("window.scrollBy(0, 1000);")
